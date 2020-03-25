@@ -1,0 +1,11 @@
+{
+  "name": "backend-be-a-hero",
+  "version": "1.0.0",
+  "description": "Minha versão do projeto da semana omnistack 11",
+  "main": "index.js",
+  "author": "Rafael Lammel Marinheiro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
